@@ -1,0 +1,11 @@
+name: choosingprior
+title:
+username:
+account: spudashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7754198
+bundleId: 6564930
+url: https://spudashboard.shinyapps.io/choosingprior/
+when: 1669678786.0931
+lastSyncTime: 1669678786.09311
